@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/emmet-group/",
+    "build": "vite build --base=/html-css_91_NetworkVisus/",
     "preview": "vite preview"
   },
   "devDependencies": {
